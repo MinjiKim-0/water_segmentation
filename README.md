@@ -1,6 +1,6 @@
 ## 🚀 Comparative Study of Deep Learning Model for Semantic Segmentation of Water System in SAR Images of KOMPSAT-5
 ### Min-Ji Kim, Seung Kyu Kim, DoHoon Lee, and Jin Kyu Gahm
-### Journal of Korea Multimedia Society, vol. 25, no. 2, pp. 206-214, 2022
+#### Journal of Korea Multimedia Society, vol. 25, no. 2, pp. 206-214, 2022
 
 📃 My Paper is here: [[Google drive]](https://drive.google.com/file/d/17_Itl_iuMB7I8mqLKf0p8C3nmHyGSI9l/view?usp=sharing)
 
